@@ -14,4 +14,4 @@ In the loopArray and loopArrayAverage methods, the result variable is used to ac
 The printf method is used to format and print the sum and average values with two decimal places.
 
 In summary, this code calculates the sum of quarterly sales for each salesperson and the average sales for each month based on the provided sales data in the numCourses array. The results are printed using formatted output.
-Hwllo 
+
